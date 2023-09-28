@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5yXR8u191hK_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Die Gesundheit "Possessivpronomen"</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Die_Gesundheit_&quot;Possessivpronomen&quot;_ORG">
+    <organization identifier="Die_Gesundheit_&quot;Possessivpronomen&quot;_ORG">
+      <title>Die Gesundheit "Possessivpronomen"</title>
+      <item identifier="A1_04_SCO" isvisible="true" identifierref="__5yXR8u191hK_course_id_RES">
+        <title>Die Gesundheit "Possessivpronomen"</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5yXR8u191hK_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6ExWSRzkcGc_P_0_0_645_304.png" />
+      <file href="mobile/5WXRHeLPFZl_M_1216_1216_C30.png" />
+      <file href="mobile/6Kizydr8Bkj_M_902_902.png" />
+      <file href="mobile/6qFMN6NUmzW_M_1122_1122.png" />
+      <file href="mobile/5ppOw7vJOCB.png" />
+      <file href="mobile/68ZLCUzSE1F.jpg" />
+      <file href="mobile/6GOcx7KxuNU.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5Uh6wORj41y.jpg" />
+      <file href="mobile/txt__default_6MOiOc4gNv9.png" />
+      <file href="mobile/Slide5xCWpwLTPjW.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5qK67lzFgto.js" />
+      <file href="html5/data/js/5qZrr615DM6.js" />
+      <file href="html5/data/js/5r3B6guewfO.js" />
+      <file href="html5/data/js/5vTKgpqE0rq.js" />
+      <file href="html5/data/js/5wNElchY2zV.js" />
+      <file href="html5/data/js/6ChivpL48za.js" />
+      <file href="html5/data/js/6DMHgxMcJTb.js" />
+      <file href="html5/data/js/6ffFvs1OSCR.js" />
+      <file href="html5/data/js/6gYEgy9lmsb.js" />
+      <file href="html5/data/js/6rootRzaMFN.js" />
+      <file href="html5/data/js/6SSf61aV8FQ.js" />
+      <file href="html5/data/js/6WHCXIcqKgI.js" />
+      <file href="html5/data/js/6WMdAGXeJKo.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
